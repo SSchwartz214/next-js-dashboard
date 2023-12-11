@@ -1,0 +1,28 @@
+fileignoreconfig:
+  - filename: .env.example
+    checksum: aad1f91bb5a66630e05d97c2a50a360192d7b0bb796bd7717e9c6a942e4fac6d
+  - filename: package-lock.json
+    checksum: 50280bf48d22d157917ea1173d25f5518e1ee92e93a8728c5911588c67d0cda1
+  - filename: app/ui/dashboard/revenue-chart.tsx
+    checksum: bccad13ca51a3921ae5e60adcc33b36514120a1c7b82c1f2a417c9c5556529db
+  - filename: app/ui/invoices/breadcrumbs.tsx
+    checksum: 515fc03253fafc7c561c22dfe43330fd4536fc65af07091e30a35a446b24866b
+  - filename: scripts/seed.js
+    checksum: ae80d3eca63098130c8237307b86bd1fedb1d5d4176e1c2aea84fcd79a9948f1
+  - filename: app/ui/invoices/create-form.tsx
+    checksum: fc6f26a1109394042afe9d86bacf79d025b54eac30ab7b5f286306c5fbb43405
+  - filename: app/ui/invoices/edit-form.tsx
+    checksum: d013118d26464a407e95c65d50d4419736cee404d9f6f18da7592b1aaea1c42d
+  - filename: app/ui/login-form.tsx
+    checksum: d3da106cc5bb30781f9a8f96f41714feb718bc8d4c87a062696d17b085927ea1
+  - filename: app/lib/placeholder-data.js
+    checksum: e872fbeeda78384387e512c2651a0e9aa9a6c286f4a52271b32e8dfcbc97ef0e
+  - filename: app/ui/invoices/table.tsx
+    checksum: 2d4644cc849064f1bb1974131e5c01740d9baea9f89d8641656ea7a3ee3427fe
+  - filename: app/ui/dashboard/latest-invoices.tsx
+    checksum: 4ce801f778505601cce198b1a7a933de378c6ef20337f92723556c416721aa9c
+  - filename: app/ui/dashboard/nav-links.tsx
+    checksum: da72efa6398b96a9eacba936054cf659878883cb38fea2da587993abd297afaa
+  - filename: app/ui/customers/table.tsx
+    checksum: e4cb2c6b932872d89b87f7949179fdb17db829dde0844aa6bdefbce3270e9c08
+version: ''
